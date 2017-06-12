@@ -1,0 +1,15 @@
+{
+  "name": "html-inject-snippet-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ive.Chen",
+  "license": "ISC",
+  "dependencies": {
+    "deep-assign": "^2.0.0",
+    "loader-utils": "^1.1.0"
+  }
+}
