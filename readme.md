@@ -10,10 +10,15 @@
         'loader':'html-inject-snippet-loader',
         options:{
             snippets:[
-                { // match tag name
-                    tag:tagName, //required 要匹配的标签名
-                    isOpenTag:true, //optional, true for openTag or false for closeTag. default openTag
-                    global: false, //optional, true for all and false for the first match. default: just first tag
+                { 
+                    //required 要匹配的标签名
+                    tag:tagName, 
+                    //optional, true for openTag or false for closeTag.
+                    //default openTag
+                    isOpenTag:true, 
+                    //optional, true for all and false for the first match
+                    //default: just first tag
+                    global: false, 
                     /**
                     * matchTagContent and snippet
                     * action = 'append'   matchTagContent + snippet

@@ -1,6 +1,6 @@
 {
   "name": "html-inject-snippet-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,10 @@
   },
   "author": "Ive.Chen",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IveChen/html-inject-snippet-loader/issues"
+  },
+  "homepage": "https://github.com/IveChen/html-inject-snippet-loader#readme",
   "dependencies": {
     "deep-assign": "^2.0.0",
     "loader-utils": "^1.1.0"
