@@ -11,6 +11,10 @@
   "bugs": {
     "url": "https://github.com/IveChen/html-inject-snippet-loader/issues"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IveChen/html-inject-snippet-loader.git"
+  },
   "homepage": "https://github.com/IveChen/html-inject-snippet-loader#readme",
   "dependencies": {
     "deep-assign": "^2.0.0",
